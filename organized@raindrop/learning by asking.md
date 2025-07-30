@@ -1,5 +1,7 @@
 *I think that learning by asking concrete questions makes learning more effective. tell me something about it*
 
+-----
+
 You're absolutely right that learning through asking concrete questions can be highly effective. This method leverages several cognitive and psychological principles that enhance understanding, retention, and application of knowledge. Here's why this approach works so well:
 
 ### 1. **Active Learning**
