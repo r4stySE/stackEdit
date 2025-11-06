@@ -1,7 +1,6 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+powershell 
+converting hashtable to object
+[PSCustomObject]$HASTABLE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExMzE0OTU1NjksNzMwOTk4MTE2XX0=
 -->
